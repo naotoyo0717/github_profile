@@ -6,7 +6,16 @@ I'm passionate about cybersecurity, AI technologies, and modern web development.
 
 ## Skills
 
-- **Languages**: JavaScript, Python, Java
-- **Frameworks**: React, Node.js, Django
-- **Tools**: Git, Docker, VS Code
+## 🌱 Training
+
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=6&i=python,nextjs,pytorch,html,css">
+
+* Currently studying:
+
+  * Python
+  * Next.js
+  * LangChain
+  * PyTorch
+  * HTML / CSS
+
 
