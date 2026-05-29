@@ -1,7 +1,6 @@
 # Hello, I'm Wakisaka Naoto!
 
 I'm currently researching LLM security and developing web applications.
-
 I'm passionate about cybersecurity, AI technologies, and modern web development.
 
 ## 🌱 Currently Learning
@@ -11,7 +10,6 @@ I'm passionate about cybersecurity, AI technologies, and modern web development.
 I'm currently studying:
 
 * LLM Security
-* LangChain
 * Web Application Development
 * Deep Learning with PyTorch
 
